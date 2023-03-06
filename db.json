@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "Stephen Samuel",
+      "price": "990255",
+      "type": "Smart Phone",
+      "brand": "Iphone14 Pro Max",
+      "id": 1
+    },
+    {
+      "name": "Deborah Salawuden",
+      "price": "60000",
+      "type": "Bra",
+      "brand": "Gucci",
+      "id": 3
+    }
+  ]
+}
